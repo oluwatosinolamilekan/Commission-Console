@@ -4,8 +4,6 @@ The following step will be taken to run the different algorithm classes in the r
 
 1. Clone the repository
 2.  Run ````composer install````
-3. Run ```php artisan``` to see all the artisan commands
-4. Pick the one that suites the algorithm topic you wanna run. The artisan commands is formed with the topic of the algorithm test.
 
 #Commission
 
