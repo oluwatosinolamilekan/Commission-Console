@@ -1,6 +1,6 @@
 # Algorithm Solutions
 
-The following step will be taken to run the different algorithm classes in the repo.
+The following step will be taken to run the algorithm class in the repo.
 
 1. Clone the repository
 2.  Run ````composer install````
