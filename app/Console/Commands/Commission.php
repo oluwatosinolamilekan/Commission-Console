@@ -61,6 +61,12 @@ class Commission extends Command
      */
     public function handle()
     {
+        // $this->output->progressStart(5);
+        // for ($i = 0; $i < 5; $i++) {
+        //     sleep(1);
+        //     $this->output->progressAdvance();
+        // }
+        // $this->output->progressFinish();
         $depositCharge = 0.05;
         $personWithdrawCharge = 0.02;
         $bussinessWithdrawCharge = 0.05;
